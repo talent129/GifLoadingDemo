@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9FD5B4349D1D1DC716B704E318945E46C72124B3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "25B48ACFC54B9FF152B847C32E9A65AA1D711672" : 9223372036854775807,
+    "9FD5B4349D1D1DC716B704E318945E46C72124B3" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A181876F-19A8-4CC5-83DD-9223BF38E950",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "25B48ACFC54B9FF152B847C32E9A65AA1D711672" : "",
+    "9FD5B4349D1D1DC716B704E318945E46C72124B3" : "GifLoadingDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GifLoadingDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GifLoadingDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/talent129\/GifLoadingDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "25B48ACFC54B9FF152B847C32E9A65AA1D711672"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/talent129\/GifLoadingDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9FD5B4349D1D1DC716B704E318945E46C72124B3"
+    }
+  ]
+}
